@@ -32,6 +32,28 @@ public class main {
         //q14.run();
         questao15 q15 = new questao15();
         //q15.run();
+        questao16 q16 = new questao16();
+        //q16.run();
+        questao17 q17 = new questao17();
+        //q17.run();
+        questao18 q18 = new questao18();
+        //q18.run();
+        questao19 q19 = new questao19();
+        //q19.run();
+        questao20 q20 = new questao20();
+        //q20.run();
+        questao21 q21 = new questao21();
+        //q21.run();
+        questao22 q22 = new questao22();
+        //q22.run();
+        questao23 q23 = new questao23();
+        //q23.run();
+        questao24 q24 = new questao24();
+        //q24.run();
+        questao25 q25 = new questao25();
+        //q25.run();
+        questao26 q26 = new questao26();
+        //q26.run();
         
     }
 }
