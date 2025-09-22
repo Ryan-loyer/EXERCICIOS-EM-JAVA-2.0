@@ -13,7 +13,12 @@ public class main {
         questao5 q5 = new questao5();
         //q5.run();
         questao6 q6 = new questao6();
-        q6.run();
-        
+        //q6.run();
+        questao7 q7 = new questao7();
+        //q7.run();
+        questao8 q8 = new questao8();
+        //q8.run();
+        questao9 q9 = new questao9();
+        q9.run();
     }
 }
